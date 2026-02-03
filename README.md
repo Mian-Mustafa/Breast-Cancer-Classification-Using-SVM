@@ -1,4 +1,4 @@
----
+et---
 
 # 🧠 Breast Cancer Classification using IQI-BGWO-SVM
 
@@ -113,12 +113,3 @@ Feel free to fork the repository or raise issues. Contributions and improvements
 👨‍💻 Maintainer:Ghulam Mustafa
 
 ---
-
-Let me know if you’d like:
-
-* A `requirements.txt` file to go with this
-* Badge icons (e.g., MIT license, Python version)
-* An automatic demo in Colab
-
-I’ll help you complete your GitHub release!
-
