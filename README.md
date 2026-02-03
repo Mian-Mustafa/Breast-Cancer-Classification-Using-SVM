@@ -1,5 +1,3 @@
-et---
-
 # 🧠 Breast Cancer Classification using IQI-BGWO-SVM
 
 *A Machine Learning and Metaheuristic Optimization Approach on the MIAS Dataset*
